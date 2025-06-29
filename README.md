@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 Web developer<br>🌱 Swift developer<br>- 👯 React.js, Tailwind CSS<br>- 🤔 java<br>- 💬 Responsive Web Design<br>- 📫 API Integration<br>- 😄 Git & Github<br>- ⚡Vercel & AWS
+<br>🔭 Web developer<br>🌱 Swift developer<br>- 👯 React.js, Tailwind CSS<br>- 🤔 Java<br>- 💬 Responsive Web Design<br>- 📫 API Integration<br>- 😄 Git & Github<br>- ⚡Vercel & AWS
 
 
 ## 🌐 Socials:
