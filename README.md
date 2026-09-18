@@ -90,12 +90,6 @@ An AI-powered customer support platform with an embeddable chatbot for businesse
 - Build validation workflows and automated tests.
 - Perform structured error analysis to identify and improve agent failures.
 
-# 🏆 Achievements
-
-- 🏅 Ranked among the **Top 150 teams** out of **1,000+ teams** at Executive 4.0 Hackathon, DTU.
-- 💻 Solved **200+ Data Structures & Algorithms problems**.
-- 🧠 Continuously improving problem-solving and competitive programming skills using Java.
-
 # 📚 Currently Learning
 
 - ☕ Spring Boot & REST APIs
