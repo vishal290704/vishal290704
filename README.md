@@ -1,124 +1,177 @@
-# 💫 About Me:
-I'm a Computer Science Engineering student and developer passionate about building full-stack applications and AI-powered products.
 
-🔭 Currently working as a **Generative AI Engineer Intern at Caudal AI**  
-🌱 Currently learning **Spring Boot, Backend Development & System Design**  
-🤖 Exploring **Generative AI, LLMs, AI Agents & LLM Evaluation**  
-💻 Building applications with **React.js, Next.js, Node.js & MongoDB**  
-🧠 Practicing **Data Structures & Algorithms in Java**  
-🚀 Interested in **Backend Engineering, Scalable Systems & AI-powered products**  
-👯 Looking to collaborate on **Open Source, AI & Full-Stack projects**  
-💬 Ask me about **React, Next.js, Node.js, Java, REST APIs & Generative AI**  
-⚡ Fun fact: I enjoy turning ideas into working products and learning by building.
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Vishal%20Srivastava&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishal290704)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vsjee2002@gmail.com)
+<h3 align="center">Building products. Exploring AI. Engineering better solutions.</h3>
 
-# 💻 Tech Stack:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Generative+AI+Enthusiast;Backend+Engineering+Learner;Exploring+LLMs+%26+AI+Agents;Turning+ideas+into+working+products" alt="Typing SVG" />
+</p>
 
-### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%23000000.svg?style=plastic&logo=postgresql&logoColor=white)
+<p align="center">
+  <a href="https://vishalsrivastava.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2C5364?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vishal290704">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vsjee2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-### 🌐 Frontend & Full Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=plastic&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishal290704&label=Profile%20Views&color=2C5364&style=flat" alt="Profile views" />
+</p>
 
-### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=plastic&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+---
 
-### 🤖 AI & Development
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=plastic&logo=google&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white)
+## 👨‍💻 About Me
 
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+I'm a Computer Science Engineering student and developer passionate about building **scalable full-stack applications and AI-powered products**.
 
-# 🚀 Featured Projects
+- 💻 Building with **React.js, Next.js, Node.js and MongoDB**
+- 🤖 Exploring **Generative AI, LLMs, RAG and AI Agents**
+- ⚙️ Learning **Spring Boot, Backend Architecture and System Design**
+- 🧠 Solving Data Structures & Algorithms problems using **Java**
+- 🔬 Experienced in **AI coding-agent task creation and evaluation**
+- 🚀 Interested in **Backend Engineering, Scalable Systems and AI**
+
+💬 Ask me about React, Next.js, Node.js, Java, REST APIs and Generative AI.
+
+⚡ *I enjoy turning ideas into working products and learning by building.*
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,js,ts,sql&theme=dark" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&theme=dark" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mongodb,postgres,mysql,redis&theme=dark" />
+</p>
+
+### AI & Developer Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,firebase,supabase,git,github,docker,aws,vercel,prisma&theme=dark" />
+</p>
+
+**AI/LLM:** Gemini API · LLM Integration · RAG · AI Agents · LLM Evaluation
+
+---
+
+## 🚀 Featured Projects
 
 ### 🤖 MargAI — AI Career Management Platform
-An AI-powered career platform designed to help users manage their career journey.
 
-- Resume builder and cover letter generation
+An AI-powered platform that helps users manage and improve their career journey.
+
+- Resume builder and AI-generated cover letters
 - AI-powered interview preparation
-- Career quizzes and insights
-- Career trends and recommendations
+- Career quizzes, insights and recommendations
+- Career trends and guidance
 - Gemini API integration
-- Authentication and responsive UI
 
 **Tech:** Next.js · React · PostgreSQL · Prisma · Clerk · Tailwind CSS · Gemini API
 
 ### 💬 Sahay-AI — AI Customer Support Platform
+
 An AI-powered customer support platform with an embeddable chatbot for businesses.
 
-- Embeddable chatbot using a script integration
+- Embeddable chatbot through script integration
 - AI-powered customer conversations
+- Business dashboard and application management
 - Gemini API integration
-- Customer and application management
-- Responsive dashboard
+- Responsive user interface
 
 **Tech:** Next.js · React · Node.js · MongoDB · Redux · Tailwind CSS · Gemini API · Scalekit
 
-# 💼 Experience
+---
+
+## 💼 Experience
 
 ### Generative AI Engineer Intern — Caudal AI
-**Aug 2026 – Present**
+**August 2026 – October 2026**
 
-- Create and refine software-engineering tasks for AI coding agents.
-- Design and evaluate agent tasks using real-world codebases.
-- Analyze generated solutions for correctness, code quality, and requirement adherence.
-- Build validation workflows and automated tests.
-- Perform structured error analysis to identify and improve agent failures.
-
-# 📚 Currently Learning
-
-- ☕ Spring Boot & REST APIs
-- 🏗️ Backend Architecture & System Design
-- 🧩 Data Structures & Algorithms
-- ⚡ Redis & Kafka
-- 🤖 LLMs & Generative AI
-- 🔍 AI Agent Evaluation & Optimization
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=vishal290704&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)
-
-![](https://streak-stats.demolab.com/?user=vishal290704&theme=github_dark&hide_border=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vishal290704&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=vishal290704&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+- Created and refined software-engineering tasks for AI coding agents.
+- Designed and evaluated agent tasks using real-world codebases.
+- Analyzed generated solutions for correctness, code quality and requirement adherence.
+- Built validation workflows and automated tests.
+- Performed structured error analysis to identify and improve agent failures.
 
 ---
 
+## 🌱 Currently Exploring
+
+- ☕ Spring Boot and REST API Development
+- 🏗️ Backend Architecture and System Design
+- ⚡ Redis, Kafka and scalable systems
+- 🤖 LLMs, RAG and Agentic AI
+- 🔍 AI Agent Evaluation and Optimization
+- 🧩 Data Structures and Algorithms in Java
+
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <i>Building, learning, and shipping — one project at a time. 🚀</i>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishal290704&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=vishal290704&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal290704&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishal290704&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Ranked among the **Top 150 teams out of 1,000+ teams** at Executive 4.0 Hackathon, DTU.
+- 💻 Solved **200+ Data Structures and Algorithms problems**.
+- 🎓 Completed DSA in Java Certification.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on interesting projects and exploring new technologies.
+
+<p align="center">
+  <a href="https://github.com/vishal290704">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/vishal290704">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vsjee2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>"Great things are built one commit at a time." 🚀</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+</p>
